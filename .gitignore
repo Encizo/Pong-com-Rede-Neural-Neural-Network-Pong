@@ -1,0 +1,14 @@
+resultados.txt
+backups/vbeta/vsdifn05.py
+__pycache__/game.cpython-310.pyc
+__pycache__/metricas.cpython-310.pyc
+__pycache__/rede.cpython-310.pyc
+backups/valfa/game.py
+backups/valfa/main.py
+backups/valfa/rede.py
+backups/valfa/__pycache__/game.cpython-310.pyc
+backups/valfa/__pycache__/rede.cpython-310.pyc
+backups/vbeta/base.py
+backups/vbeta/newvs04.py
+backups/vbeta/testevs02.py
+backups/vbeta/testevs03.py
